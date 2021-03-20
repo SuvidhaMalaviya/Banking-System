@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banking System</string>
+    <string name="developed_by_suvidha">Developed By @Suvidha</string>
+    <string name="view_customer">View Customer</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="transfer">TRANSFER</string>
+</resources>
